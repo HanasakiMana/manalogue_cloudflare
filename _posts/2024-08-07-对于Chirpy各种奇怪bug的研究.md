@@ -6,11 +6,9 @@ tags: [chirpy, jekyll]
 ---
 
 > READ THE DOCS!
->
 > READ THE DOCS!
->
 > READ THE DOCS!
->
+> 
 > 这篇文章中的问题很大概率是因为你没有阅读官方的[说明](https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide#upgrade-the-fork)导致的！
 {: .prompt-warning }
 
@@ -20,6 +18,7 @@ tags: [chirpy, jekyll]
 - toc目录无法正常显示，即使已经全局启用
 - 无法进行搜索
 - 图片的加载动画（shimmer）永远不会消失
+- 无法正常使用PWA功能（更新网页端后网页显示需要更新，但点击确认后仍然不会更新，并持续弹出相同的提示）
 
 这些问题从建站起就已经困扰我非常久了，最开始我以为是因为`assets/lib`下的submodules没有clone，于是`git submodules update --init`，但是没有任何改变，而且苦于编译没有任何报错，因此一直搁置了这个问题（事实上，如果没有启动static assets功能，这些文件会自动从CDN获取，相关设置位于`_data/origin/cors.yml`）。直到今天，我在开发者工具中发现了这样的报错：
 
