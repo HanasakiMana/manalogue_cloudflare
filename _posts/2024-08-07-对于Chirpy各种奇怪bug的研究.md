@@ -12,8 +12,7 @@ tags: [chirpy, jekyll]
 > READ THE DOCS!
 >
 > 这篇文章中的问题很大概率是因为你没有阅读官方的[说明](https://github.com/cotes2020/jekyll-theme-chirpy/wiki/Upgrade-Guide#upgrade-the-fork)导致的！
->
-> {: .prompt-warning }
+{: .prompt-warning }
 
 ## 可能包含的bugs
 
