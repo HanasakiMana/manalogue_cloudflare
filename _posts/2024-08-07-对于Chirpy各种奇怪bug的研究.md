@@ -2,7 +2,7 @@
 title: 对于Chirpy各种奇怪bug的研究
 date: 2024-08-07 22:55:00 +0800
 categories: [网络]
-tags: [chirpy, jekyll]
+tags: [Chirpy, jekyll]
 ---
 
 > READ THE DOCS!
@@ -22,7 +22,7 @@ tags: [chirpy, jekyll]
 
 这些问题从建站起就已经困扰我非常久了，最开始我以为是因为`assets/lib`下的submodules没有clone，于是`git submodules update --init`，但是没有任何改变，而且苦于编译没有任何报错，因此一直搁置了这个问题（事实上，如果没有启动static assets功能，这些文件会自动从CDN获取，相关设置位于`_data/origin/cors.yml`）。直到今天，我在开发者工具中发现了这样的报错：
 
-![image-20240807225004940](/posts/image-20240807225004940.png)
+![image-20240807225004940](/assets/img/posts/image-20240807225004940.png)
 
 然而，如果你定位到编译好的网站目录下，会发现根本没有`assets/js/dist`这个文件夹，更别提对应的文件了。于是顺藤摸瓜找到了这个[discussion](https://github.com/cotes2020/jekyll-theme-chirpy/discussions/1257)：
 

@@ -1,0 +1,29 @@
+<style>
+    #backgroundImg {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        height: auto;
+        width: 0px;
+        background-image: url('/assets/img/background/mana.png');
+        opacity: 0.5;
+        background-size: cover;
+        pointer-events: none;
+        z-index: 999;
+    }
+</style>
+
+<script>
+    function setBGSize() { 
+        const topbar = document.getElementById("topbar-wrapper");
+        const backgroundImg = document.getElementById("backgroundImg");
+        // 根据topbar的长度设置背景图片的宽度
+        backgroundImg.style.width = parseInt(topbar.offsetWidth) * 0.4 + 'px';
+        // 根据背景图片的宽度设置其高度
+        backgroundImg.style.height = backgroundImg.offsetWidth + 'px';
+    }
+window.onload = setBGSize; // 初始化时调用
+window.onresize = setBGSize; // 窗口缩放时调用
+</script>
+
+<div id="backgroundImg"></div>
