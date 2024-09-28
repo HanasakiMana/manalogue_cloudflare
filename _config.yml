@@ -169,6 +169,10 @@ collections:
   tabs:
     output: true
     sort_by: order
+  a_quarter_of_starry_sky:
+    output: true
+  mana:
+    output: true
 
 defaults:
   - scope:
@@ -180,7 +184,7 @@ defaults:
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
-      permalink: /:title
+      permalink: /posts/:title
   - scope:
       path: _drafts
     values:
@@ -195,6 +199,19 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
+  - scope:
+      path: ""
+      type: a_quarter_of_starry_sky
+    values:
+      layout: page
+      comments: true
+      permalink: /a_quarter_of_starry_sky/:title
+  - scope:
+      path: ""
+      type: mana
+    values:
+      layout: page
+      permalink: /mana/:title
 
 sass:
   style: compressed

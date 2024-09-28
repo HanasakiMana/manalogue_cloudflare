@@ -1,8 +1,8 @@
 ---
 title: 角色设定 | キャラクターデザイン | Character Design
-date: 2024-08-07 19:38:00 +0800
-categories: [mana]
-tags: [mana]
+layout: post
+date: 2024-08-09 +0800
+permalink: /mana/
 pin: true
 toc: false
 ---
@@ -29,11 +29,11 @@ toc: false
 
 - 便装（绘师：Teresa）
 
-![2024-08-09](/assets/img/mana/2024-08-09-teresa.jpg){: width="300" .normal}
+![2024-08-09](/mana/2024-08-09-teresa.jpg){: width="300" .normal}
 
 - 制服（绘师：[ぺそ](https://x.com/soratobuboruzoi)）
 
-![2024-09-09](/assets/img/mana/2024-09-09-peso-no-background.png){: width="400" .normal}
+![2024-09-09](/mana/2024-09-09-peso-no-background.png){: width="400" .normal}
 
 ## 过往作品
 
@@ -56,11 +56,11 @@ toc: false
 
 - 私服（イラストレーター：Teresa）
 
-![2024-08-09](/assets/img/mana/2024-08-09-teresa.jpg){: width="300" .normal}
+![2024-08-09](/mana/2024-08-09-teresa.jpg){: width="300" .normal}
 
 - 制服（イラストレーター：[ぺそ](https://x.com/soratobuboruzoi)）
 
-![2024-09-09](/assets/img/mana/2024-09-09-peso-no-background.png){: width="400" .normal}
+![2024-09-09](/mana/2024-09-09-peso-no-background.png){: width="400" .normal}
 
 ## 過去の作品
 
@@ -83,11 +83,11 @@ toc: false
 
 - Daily dress　(Illustrator: Teresa)
 
-![2024-08-09](/assets/img/mana/2024-08-09-teresa.jpg){: width="300" .normal}
+![2024-08-09](/mana/2024-08-09-teresa.jpg){: width="300" .normal}
 
 - School uniform (イラストレーター：[ぺそ](https://x.com/soratobuboruzoi))
 
-![2024-09-09](/assets/img/mana/2024-09-09-peso-no-background.png){: width="400" .normal}
+![2024-09-09](/mana/2024-09-09-peso-no-background.png){: width="400" .normal}
 
 ## Previous Works
 
@@ -95,11 +95,11 @@ toc: false
 
 {% endtabs %}
 
-![2024-09-09](/assets/img/mana/2024-09-09-peso.png){: width="400" .normal}
+![2024-09-09](/mana/2024-09-09-peso.png){: width="400" .normal}
 
 [ぺそ](https://x.com/soratobuboruzoi), 2024-09-09
 
-![2024-08-13](/assets/img/mana/2024-08-13-chiaki_no_alpha.png){: width="400" .normal}
+![2024-08-13](/mana/2024-08-13-chiaki_no_alpha.png){: width="400" .normal}
 
 千秋, 2024-08-13
 

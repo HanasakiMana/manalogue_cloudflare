@@ -9,5 +9,6 @@ group :test do
 end
 
 group :jekyll_plugins do
-  gem "jekyll-tabs"
+  gem "jekyll-tabs" # 增加标签设置
+  gem "jekyll-last-modified-at" # 增加“最后更新时间”显示
 end

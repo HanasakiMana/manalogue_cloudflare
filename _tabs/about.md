@@ -18,7 +18,7 @@ order: 5
 
 ## 我是谁？
 
-花咲まな，16岁，是女高中生。
+花咲まな，是我创建的一个角色，也是我自己。
 
-详细页面可以查看[这里](https://manalogue.kilakila.cc/mana)。
+人设和约稿可以查看[这里](https://manalogue.kilakila.cc/mana)。
 
