@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: manalogue # the main title
+title: manalogues # the main title
 
 tagline: 科技与人文的十字路口 # it will display as the sub-title
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://manalogue.kilakila.cc"
+url: "https://manalogues.com"
 
 github:
   username: HanasakiMana # change to your github username
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-ZJ1JDT88CE
+    id: G-98LKRQ4NML
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:

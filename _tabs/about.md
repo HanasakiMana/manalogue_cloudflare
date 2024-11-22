@@ -18,7 +18,7 @@ order: 5
 
 ## 我是谁？
 
-花咲まな，是我创建的一个角色，也是我自己。
+花咲まな，我所创作的一个角色，以及我自己。
 
-人设和约稿可以查看[这里](https://manalogue.kilakila.cc/mana)。
+具体的人设和约稿可以查看[这里](https://manalogues.com/mana)。
 
